@@ -1,0 +1,7 @@
+# Gotowe programy trafiaja do "Releases", nie do repozytorium
+dist/
+*.exe
+
+# Pliki robocze
+*.log
+wyniki-dns.csv
